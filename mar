@@ -1,0 +1,58 @@
+[33mcommit 30cdc374ffd5401dde3d657bc0e0568a5ddd9ea5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryan White <rmwhite@gmail.com>
+Date:   Thu Apr 23 22:19:33 2020 +0000
+
+    Added thoughts on the iron in Mars' soil
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex b36abfd..ff655b5 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ Cold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+[32m+[m[32mThe iron in the soil is good for you[m
+
+[33mcommit 3cfad577b4de50d15bff9c8f51d9eedfdaaadbf3[m
+Author: Ryan White <rmwhite@gmail.com>
+Date:   Thu Apr 23 22:06:00 2020 +0000
+
+    Discuss concerns about Mars' climate for Mummy
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 315bf3a..b36abfd 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ Cold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+[32m+[m[32mBut the Mummy will appreciate the lack of humidity[m
+
+[33mcommit e0422d70cd1fe71f298cab52ff0ffcb4bbf8c807[m
+Author: Ryan White <rmwhite@gmail.com>
+Date:   Thu Apr 23 21:57:49 2020 +0000
+
+    Add concerns about effects of Mar's moons on Wolfman
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex df0654a..315bf3a 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1 +1,2 @@[m
+ Cold and dry, but everything is my favorite color[m
+[32m+[m[32mThe two moons may be a problem for Wolfman[m
+
+[33mcommit 0e80e3c4acbd7c422cdbc4841873e3814426d666[m
+Author: Ryan White <rmwhite@gmail.com>
+Date:   Thu Apr 23 21:47:33 2020 +0000
+
+    Start notes on Mars as a base
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..df0654a[m
+[1m--- /dev/null[m
+[1m+++ b/mars.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mCold and dry, but everything is my favorite color[m
